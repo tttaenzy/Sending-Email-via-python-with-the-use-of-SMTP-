@@ -10,7 +10,7 @@
 #                     msg="subject: HI \n\n there this is python day 31 project about SMTP")
 # connection.close()
 
-#------------Challenge ---------------
+#------------Challenge sending motivational quotes---------------
 import datetime as dt
 import random as rd
 import smtplib
